@@ -1,0 +1,2 @@
+# OperationKingFisher---Capture-the-Flag
+This is a Capture the Flag (CTF) box designed and developed by Thisaranga Dilshan and Gayan Gothama who are Cyber Security Undergraduate students in Sri Lanka Institute of Information Technology (SLIIT). As one of our 3rd year projects we have implemented this CTF box using various technologies and techniques that are been used in the current computer world. 
