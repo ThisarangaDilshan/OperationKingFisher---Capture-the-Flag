@@ -65,11 +65,14 @@ https://drive.google.com/file/d/1lKZNw2dnszUOK3hVmLFVeGlxOSk3pMHb/view?usp=shari
 
 # Screenshots
 
-  * <img width="1280" alt="Screen Shot 2019-10-07 at 10 00 01 PM" src="https://user-images.githubusercontent.com/44490963/124548794-d5741480-de4b-11eb-8748-1ea2a74d2224.png">
-
-  * <img width="1264" alt="Screen Shot 2019-10-07 at 10 02 32 PM" src="https://user-images.githubusercontent.com/43614338/66330521-2fca0380-e94e-11e9-9881-41f07eb9d61d.png">
+  * <img width="1263"  src="https://user-images.githubusercontent.com/44490963/124549169-6945e080-de4c-11eb-940f-988675338721.png">
   
-  * <img width="1263" alt="Screen Shot 2019-10-07 at 10 03 58 PM" src="https://user-images.githubusercontent.com/43614338/66330634-6a33a080-e94e-11e9-8713-478bd2094747.png">
+  * <img width="1263"  src="https://user-images.githubusercontent.com/44490963/124549175-6b0fa400-de4c-11eb-81fd-ac9c3a0c394c.png">
+  
+  * <img width="1280" src="https://user-images.githubusercontent.com/44490963/124548794-d5741480-de4b-11eb-8748-1ea2a74d2224.png">
+
+  * <img width="1264" src="https://user-images.githubusercontent.com/44490963/124549178-6ba83a80-de4c-11eb-90d6-becba05c542d.png">
+  
     
  # Contribute
  
